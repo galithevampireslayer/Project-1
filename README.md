@@ -1,2 +1,2 @@
 # Project-1
-Random trial project
+Random Password Generator
